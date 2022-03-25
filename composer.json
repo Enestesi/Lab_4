@@ -1,0 +1,12 @@
+{
+    "name": "laba4Ignatenko/code",
+    "authors": [
+        {
+            "name": "laba4Ignatenko",
+            "email": "nastyaign2003@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0",
+        "guzzlehttp/guzzle": "~5.3.1"
+    }
